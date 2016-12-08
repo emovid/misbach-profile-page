@@ -53,7 +53,7 @@
 
               <div id="message"></div>
 
-                        <form method="post" action="{{ URL::asset('php/contactfrom.php') }}" name="cform" id="cform">
+                        <form method="POST" action="https://formspree.io/contact@misbach.me" name="cform" id="cform">
 
                     <div class="row">
 
@@ -65,7 +65,7 @@
 
                         <div class="col-md-6 col-lg-6 col-sm-6 col-xs-12">
 
-                        <input  name="email" id="email" type="email"  placeholder="Whats your email">
+                        <input  name="_replyto" id="email" type="email"  placeholder="Whats your email">
 
                         </div>
 
@@ -76,6 +76,8 @@
                     <textarea name="comments" id="comments" cols="" rows="" placeholder="Whats in your mind"></textarea>
 
                     <div class="clearfix"></div>
+
+                    <input type="hidden" name="_next" value="{{ url('/') }}" />
 
                     <input name="" type="submit" value="Send email">
 
