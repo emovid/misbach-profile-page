@@ -50,12 +50,12 @@
             <!-- /.timeline-label -->
             <!-- timeline item -->
             <li>
-              <i class="fa fa-thumb-tack bg-blue"></i>
+              <i class="fa fa-thumb-tack bg-yellow"></i>
 
               <div class="timeline-item">
-                <span class="time"><i class="fa fa-calendar"></i> 01 January 2015</span>
+                <span class="time"><i class="fa fa-calendar"></i> August</span>
 
-                <h3 class="timeline-header"><a>Nama Lembaga</a>&nbsp Posisi</h3>
+                <h3 class="timeline-header"><a>Key Note Speaker</a>&nbsp  Department of Electrical Engineering and Information Technology UGM Campus Orientation Program</h3>
 
                 <div class="timeline-body">
                   Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
@@ -79,35 +79,9 @@
               <i class="fa fa-thumb-tack bg-blue"></i>
 
               <div class="timeline-item">
-                <span class="time"><i class="fa fa-calendar"></i> 01 January 2015</span>
+                <span class="time"><i class="fa fa-calendar"></i> July</span>
 
-                <h3 class="timeline-header"><a>Nama Lembaga</a>&nbsp Posisi</h3>
-
-                <div class="timeline-body">
-                  Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
-                  weebly ning heekya handango imeem plugg dopplr jibjab, movity
-                  jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle
-                  quora plaxo ideeli hulu weebly balihoo...
-                </div>
-                <div class="timeline-footer">
-                  <a class="btn btn-primary btn-xs">Tag 1</a>
-                  <a class="btn btn-danger btn-xs">Tag 2</a>
-                  <a class="btn btn-warning btn-xs">Tag 3</a>
-                  <a class="btn btn-default btn-xs">Tag 4</a>
-                  <a class="btn btn-info btn-xs">Tag 5</a>
-                  <a class="btn btn-success btn-xs">Tag 6</a>
-                </div>
-              </div>
-            </li>
-            <!-- END timeline item -->
-            <!-- timeline item -->
-            <li>
-              <i class="fa fa-thumb-tack bg-blue"></i>
-
-              <div class="timeline-item">
-                <span class="time"><i class="fa fa-calendar"></i> 01 January 2015</span>
-
-                <h3 class="timeline-header"><a>Nama Lembaga</a>&nbsp Posisi</h3>
+                <h3 class="timeline-header"><a>Public Relation Coordinator</a>&nbsp KKN PPM Unit KTG-03 Universitas Gadjah Mada</h3>
 
                 <div class="timeline-body">
                   Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
@@ -128,12 +102,12 @@
             <!-- END timeline item -->
             <!-- timeline item -->
             <li>
-              <i class="fa fa-thumb-tack bg-blue"></i>
+              <i class="fa fa-thumb-tack bg-green"></i>
 
               <div class="timeline-item">
-                <span class="time"><i class="fa fa-calendar"></i> 01 January 2015</span>
+                <span class="time"><i class="fa fa-calendar"></i> February</span>
 
-                <h3 class="timeline-header"><a>Nama Lembaga</a>&nbsp Posisi</h3>
+                <h3 class="timeline-header"><a>Conciliation Committee</a>&nbsp Electrical Engineering and Information Technology UGM Student Association (KMTETI)</h3>
 
                 <div class="timeline-body">
                   Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
@@ -152,43 +126,98 @@
               </div>
             </li>
             <!-- END timeline item -->
-
-
-            <!-- timeline item -->
-            <li>
-              <i class="fa fa-user bg-aqua"></i>
-
-              <div class="timeline-item">
-                <span class="time"><i class="fa fa-clock-o"></i> 5 mins ago</span>
-
-                <h3 class="timeline-header no-border"><a href="#">Sarah Young</a> accepted your friend request</h3>
-              </div>
-            </li>
-            <!-- END timeline item -->
-            <!-- timeline item -->
-            <li>
-              <i class="fa fa-comments bg-yellow"></i>
-
-              <div class="timeline-item">
-                <span class="time"><i class="fa fa-clock-o"></i> 27 mins ago</span>
-
-                <h3 class="timeline-header"><a href="#">Jay White</a> commented on your post</h3>
-
-                <div class="timeline-body">
-                  Take me to your leader!
-                  Switzerland is small and neutral!
-                  We are more like Germany, ambitious and misunderstood!
-                </div>
-                <div class="timeline-footer">
-                  <a class="btn btn-warning btn-flat btn-xs">View comment</a>
-                </div>
-              </div>
-            </li>
-            <!-- END timeline item -->
+            
             <!-- timeline time label -->
             <li class="time-label">
                   <span class="bg-green">
                     Year 2015
+                  </span>
+            </li>
+            <!-- /.timeline-label -->
+           
+            <!-- timeline item -->
+            <li>
+              <i class="fa fa-thumb-tack bg-blue"></i>
+
+              <div class="timeline-item">
+                <span class="time"><i class="fa fa-calendar"></i> August</span>
+
+                <h3 class="timeline-header"><a>Steering Committee Vice President</a>&nbsp  Department of Electrical Engineering and Information Technology UGM Campus Orientation Program</h3>
+
+                <div class="timeline-body">
+                  Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
+                  weebly ning heekya handango imeem plugg dopplr jibjab, movity
+                  jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle
+                  quora plaxo ideeli hulu weebly balihoo...
+                </div>
+                <div class="timeline-footer">
+                  <a class="btn btn-primary btn-xs">Tag 1</a>
+                  <a class="btn btn-danger btn-xs">Tag 2</a>
+                  <a class="btn btn-warning btn-xs">Tag 3</a>
+                  <a class="btn btn-default btn-xs">Tag 4</a>
+                  <a class="btn btn-info btn-xs">Tag 5</a>
+                  <a class="btn btn-success btn-xs">Tag 6</a>
+                </div>
+              </div>
+            </li>
+            <!-- END timeline item -->
+            <!-- timeline item -->
+            <li>
+              <i class="fa fa-thumb-tack bg-blue"></i>
+
+              <div class="timeline-item">
+                <span class="time"><i class="fa fa-calendar"></i> August</span>
+
+                <h3 class="timeline-header"><a>Supervisor</a>&nbsp Engineering Faculty UGM Campus Orientation Program</h3>
+
+                <div class="timeline-body">
+                  Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
+                  weebly ning heekya handango imeem plugg dopplr jibjab, movity
+                  jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle
+                  quora plaxo ideeli hulu weebly balihoo...
+                </div>
+                <div class="timeline-footer">
+                  <a class="btn btn-primary btn-xs">Tag 1</a>
+                  <a class="btn btn-danger btn-xs">Tag 2</a>
+                  <a class="btn btn-warning btn-xs">Tag 3</a>
+                  <a class="btn btn-default btn-xs">Tag 4</a>
+                  <a class="btn btn-info btn-xs">Tag 5</a>
+                  <a class="btn btn-success btn-xs">Tag 6</a>
+                </div>
+              </div>
+            </li>
+            <!-- END timeline item -->
+             <!-- timeline item -->
+            <li>
+              <i class="fa fa-thumb-tack bg-green"></i>
+
+              <div class="timeline-item">
+                <span class="time"><i class="fa fa-calendar"></i> February</span>
+
+                <h3 class="timeline-header"><a>Secretary General</a>&nbsp Electrical Engineering and Information Technology UGM Student Association (KMTETI)</h3>
+
+                <div class="timeline-body">
+                  Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
+                  weebly ning heekya handango imeem plugg dopplr jibjab, movity
+                  jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle
+                  quora plaxo ideeli hulu weebly balihoo...
+                </div>
+                <div class="timeline-footer">
+                  <a class="btn btn-primary btn-xs">Tag 1</a>
+                  <a class="btn btn-danger btn-xs">Tag 2</a>
+                  <a class="btn btn-warning btn-xs">Tag 3</a>
+                  <a class="btn btn-default btn-xs">Tag 4</a>
+                  <a class="btn btn-info btn-xs">Tag 5</a>
+                  <a class="btn btn-success btn-xs">Tag 6</a>
+                </div>
+              </div>
+            </li>
+            <!-- END timeline item -->
+            
+            <!-- timeline time label -->
+            <li class="time-label">
+                  <span class="bg-green">
+                    Year 2014
                   </span>
             </li>
             <!-- /.timeline-label -->
@@ -197,35 +226,9 @@
               <i class="fa fa-thumb-tack bg-blue"></i>
 
               <div class="timeline-item">
-                <span class="time"><i class="fa fa-calendar"></i> 01 January 2015</span>
+                <span class="time"><i class="fa fa-calendar"></i> December</span>
 
-                <h3 class="timeline-header"><a>Nama Lembaga</a>&nbsp Posisi</h3>
-
-                <div class="timeline-body">
-                  Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
-                  weebly ning heekya handango imeem plugg dopplr jibjab, movity
-                  jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle
-                  quora plaxo ideeli hulu weebly balihoo...
-                </div>
-                <div class="timeline-footer">
-                  <a class="btn btn-primary btn-xs">Tag 1</a>
-                  <a class="btn btn-danger btn-xs">Tag 2</a>
-                  <a class="btn btn-warning btn-xs">Tag 3</a>
-                  <a class="btn btn-default btn-xs">Tag 4</a>
-                  <a class="btn btn-info btn-xs">Tag 5</a>
-                  <a class="btn btn-success btn-xs">Tag 6</a>
-                </div>
-              </div>
-            </li>
-            <!-- END timeline item -->
-            <!-- timeline item -->
-            <li>
-              <i class="fa fa-thumb-tack bg-blue"></i>
-
-              <div class="timeline-item">
-                <span class="time"><i class="fa fa-calendar"></i> 01 January 2015</span>
-
-                <h3 class="timeline-header"><a>Nama Lembaga</a>&nbsp Posisi</h3>
+                <h3 class="timeline-header"><a>Organizing Committee President</a>&nbsp Indonesian Big Data Conference by S247</h3>
 
                 <div class="timeline-body">
                   Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
@@ -249,9 +252,9 @@
               <i class="fa fa-thumb-tack bg-blue"></i>
 
               <div class="timeline-item">
-                <span class="time"><i class="fa fa-calendar"></i> 01 January 2015</span>
+                <span class="time"><i class="fa fa-calendar"></i> November</span>
 
-                <h3 class="timeline-header"><a>Nama Lembaga</a>&nbsp Posisi</h3>
+                <h3 class="timeline-header"><a>Logistics Staff</a>&nbsp DIES NATALIS 51<sup>th</sup> Department of Electrical Engineering and Information Technology UGM</h3>
 
                 <div class="timeline-body">
                   Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
@@ -272,12 +275,182 @@
             <!-- END timeline item -->
             <!-- timeline item -->
             <li>
-              <i class="fa fa-thumb-tack bg-purple"></i>
+              <i class="fa fa-thumb-tack bg-blue"></i>
 
               <div class="timeline-item">
-                <span class="time"><i class="fa fa-calendar"></i> 01 January 2015</span>
+                <span class="time"><i class="fa fa-calendar"></i> August</span>
 
-                <h3 class="timeline-header"><a>Nama Lembaga</a>&nbsp Posisi</h3>
+                <h3 class="timeline-header"><a>Organizing Committee President</a>&nbsp Department of Electrical Engineering and Information Technology UGM Graduation Ceremony</h3>
+
+                <div class="timeline-body">
+                  Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
+                  weebly ning heekya handango imeem plugg dopplr jibjab, movity
+                  jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle
+                  quora plaxo ideeli hulu weebly balihoo...
+                </div>
+                <div class="timeline-footer">
+                  <a class="btn btn-primary btn-xs">Tag 1</a>
+                  <a class="btn btn-danger btn-xs">Tag 2</a>
+                  <a class="btn btn-warning btn-xs">Tag 3</a>
+                  <a class="btn btn-default btn-xs">Tag 4</a>
+                  <a class="btn btn-info btn-xs">Tag 5</a>
+                  <a class="btn btn-success btn-xs">Tag 6</a>
+                </div>
+              </div>
+            </li>
+            <!-- END timeline item -->
+            <!-- timeline item -->
+            <li>
+              <i class="fa fa-thumb-tack bg-blue"></i>
+
+              <div class="timeline-item">
+                <span class="time"><i class="fa fa-calendar"></i> August</span>
+
+                <h3 class="timeline-header"><a>Logistics Coordinator</a>&nbsp Engineering Faculty UGM Campus Orientation Program</h3>
+
+                <div class="timeline-body">
+                  Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
+                  weebly ning heekya handango imeem plugg dopplr jibjab, movity
+                  jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle
+                  quora plaxo ideeli hulu weebly balihoo...
+                </div>
+                <div class="timeline-footer">
+                  <a class="btn btn-primary btn-xs">Tag 1</a>
+                  <a class="btn btn-danger btn-xs">Tag 2</a>
+                  <a class="btn btn-warning btn-xs">Tag 3</a>
+                  <a class="btn btn-default btn-xs">Tag 4</a>
+                  <a class="btn btn-info btn-xs">Tag 5</a>
+                  <a class="btn btn-success btn-xs">Tag 6</a>
+                </div>
+              </div>
+            </li>
+            <!-- END timeline item -->
+            <!-- timeline item -->
+            <li>
+              <i class="fa fa-thumb-tack bg-blue"></i>
+
+              <div class="timeline-item">
+                <span class="time"><i class="fa fa-calendar"></i> June</span>
+
+                <h3 class="timeline-header"><a>Logistics Coordinator</a>&nbsp Femalesport</h3>
+
+                <div class="timeline-body">
+                  Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
+                  weebly ning heekya handango imeem plugg dopplr jibjab, movity
+                  jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle
+                  quora plaxo ideeli hulu weebly balihoo...
+                </div>
+                <div class="timeline-footer">
+                  <a class="btn btn-primary btn-xs">Tag 1</a>
+                  <a class="btn btn-danger btn-xs">Tag 2</a>
+                  <a class="btn btn-warning btn-xs">Tag 3</a>
+                  <a class="btn btn-default btn-xs">Tag 4</a>
+                  <a class="btn btn-info btn-xs">Tag 5</a>
+                  <a class="btn btn-success btn-xs">Tag 6</a>
+                </div>
+              </div>
+            </li>
+            <!-- END timeline item -->
+            <!-- timeline item -->
+            <li>
+              <i class="fa fa-thumb-tack bg-blue"></i>
+
+              <div class="timeline-item">
+                <span class="time"><i class="fa fa-calendar"></i> February</span>
+
+                <h3 class="timeline-header"><a>Website Staff</a>&nbsp Technocorner</h3>
+
+                <div class="timeline-body">
+                  Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
+                  weebly ning heekya handango imeem plugg dopplr jibjab, movity
+                  jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle
+                  quora plaxo ideeli hulu weebly balihoo...
+                </div>
+                <div class="timeline-footer">
+                  <a class="btn btn-primary btn-xs">Tag 1</a>
+                  <a class="btn btn-danger btn-xs">Tag 2</a>
+                  <a class="btn btn-warning btn-xs">Tag 3</a>
+                  <a class="btn btn-default btn-xs">Tag 4</a>
+                  <a class="btn btn-info btn-xs">Tag 5</a>
+                  <a class="btn btn-success btn-xs">Tag 6</a>
+                </div>
+              </div>
+            </li>
+            <!-- END timeline item -->
+             <!-- timeline item -->
+            <li>
+              <i class="fa fa-thumb-tack bg-green"></i>
+
+              <div class="timeline-item">
+                <span class="time"><i class="fa fa-calendar"></i> February</span>
+
+                <h3 class="timeline-header"><a>Public Relation Staff</a>&nbsp Electrical Engineering and Information Technology UGM Student Association (KMTETI)</h3>
+
+                <div class="timeline-body">
+                  Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
+                  weebly ning heekya handango imeem plugg dopplr jibjab, movity
+                  jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle
+                  quora plaxo ideeli hulu weebly balihoo...
+                </div>
+                <div class="timeline-footer">
+                  <a class="btn btn-primary btn-xs">Tag 1</a>
+                  <a class="btn btn-danger btn-xs">Tag 2</a>
+                  <a class="btn btn-warning btn-xs">Tag 3</a>
+                  <a class="btn btn-default btn-xs">Tag 4</a>
+                  <a class="btn btn-info btn-xs">Tag 5</a>
+                  <a class="btn btn-success btn-xs">Tag 6</a>
+                </div>
+              </div>
+            </li>
+            <!-- END timeline item -->
+            <!-- timeline time label -->
+            <li class="time-label">
+                  <span class="bg-green">
+                    Year 2011
+                  </span>
+            </li>
+            <!-- /.timeline-label -->
+            <!-- timeline item -->
+            <li>
+              <i class="fa fa-thumb-tack bg-green"></i>
+
+              <div class="timeline-item">
+                <span class="time"><i class="fa fa-calendar"></i> December</span>
+
+                <h3 class="timeline-header"><a>Chairman</a>&nbsp Alumni Association of SMPIT Nur Hidayah 4<sup>th</sup> Graduates</h3>
+
+                <div class="timeline-body">
+                  Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
+                  weebly ning heekya handango imeem plugg dopplr jibjab, movity
+                  jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle
+                  quora plaxo ideeli hulu weebly balihoo...
+                </div>
+                <div class="timeline-footer">
+                  <a class="btn btn-primary btn-xs">Tag 1</a>
+                  <a class="btn btn-danger btn-xs">Tag 2</a>
+                  <a class="btn btn-warning btn-xs">Tag 3</a>
+                  <a class="btn btn-default btn-xs">Tag 4</a>
+                  <a class="btn btn-info btn-xs">Tag 5</a>
+                  <a class="btn btn-success btn-xs">Tag 6</a>
+                </div>
+              </div>
+            </li>
+            <!-- END timeline item -->
+            <!-- timeline time label -->
+            <li class="time-label">
+                  <span class="bg-green">
+                    Year 2010
+                  </span>
+            </li>
+            <!-- /.timeline-label -->
+            <!-- timeline item -->
+            <li>
+              <i class="fa fa-thumb-tack bg-green"></i>
+
+              <div class="timeline-item">
+                <span class="time"><i class="fa fa-calendar"></i> December</span>
+
+                <h3 class="timeline-header"><a>Human Rsources Staff</a>&nbsp FAROHIS Surakarta</h3>
 
                 <div class="timeline-body">
                   Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
