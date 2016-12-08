@@ -47,6 +47,9 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+Route::get('/thankyou', function () {
+    return view('thankyou');
+});
 /*
 |--------------------------------------------------------------------------
 | Application Routes
