@@ -33,13 +33,8 @@
 
                         <figure>
 
-                            <div class="post-date">
 
-                                <span>24</span> July 2016
-
-                            </div>
-
-                            <img src="images/blog-images/blog-2.jpg" alt="" class="img-responsive"/>
+                            <img src="images/book-images/7habit.gif" alt="" class="img-responsive"/>
 
                         </figure>
 
@@ -63,13 +58,8 @@
 
                         <figure>
 
-                            <div class="post-date">
 
-                                <span>24</span> July 2016
-
-                            </div>
-
-                            <img src="images/blog-images/blog-4.jpg" alt="" class="img-responsive"/>
+                            <img src="images/book-images/dasar_manajemen.gif" alt="" class="img-responsive"/>
 
                         </figure>
 
@@ -93,13 +83,8 @@
 
                         <figure>
 
-                            <div class="post-date">
 
-                                <span>24</span> July 2016
-
-                            </div>
-
-                            <img src="images/blog-images/blog-2.jpg" alt="" class="img-responsive"/>
+                            <img src="images/book-images/database.gif" alt="" class="img-responsive"/>
 
                         </figure>
 
@@ -115,65 +100,7 @@
 
                 </li>
 
-                <li>
-
-                    <section class="blog-content">
-
-                        <a href="blog-details.html">
-
-                        <figure>
-
-                            <div class="post-date">
-
-                                <span>24</span> July 2016
-
-                            </div>
-
-                            <img src="images/blog-images/blog-4.jpg" alt="" class="img-responsive"/>
-
-                        </figure>
-
-                        </a>
-
-                        <article>
-
-                            This is a sample news post title content or sample post heading.
-
-                        </article>
-
-                    </section>
-
-                </li>
-
-                <li>
-
-                    <section class="blog-content">
-
-                        <a href="blog-details.html">
-
-                        <figure>
-
-                            <div class="post-date">
-
-                                <span>24</span> July 2016
-
-                            </div>
-
-                            <img src="images/blog-images/blog-2.jpg" alt="" class="img-responsive"/>
-
-                        </figure>
-
-                        </a>
-
-                        <article>
-
-                            This is a sample news post title content or sample post heading.
-
-                        </article>
-
-                    </section>
-
-                </li>
+                
 
             </ul>
 
@@ -193,13 +120,8 @@
 
                         <figure>
 
-                            <div class="post-date">
 
-                                <span>24</span> July 2016
-
-                            </div>
-
-                            <img src="images/blog-images/blog-1.jpg" alt="" class="img-responsive"/>
+                            <img src="images/book-images/getting_more.gif" alt="" class="img-responsive"/>
 
                         </figure>
 
@@ -223,13 +145,8 @@
 
                         <figure>
 
-                            <div class="post-date">
 
-                                <span>24</span> July 2016
-
-                            </div>
-
-                            <img src="images/blog-images/blog-3.jpg" alt="" class="img-responsive"/>
+                            <img src="images/book-images/ihya.gif" alt="" class="img-responsive"/>
 
                         </figure>
 
@@ -253,43 +170,8 @@
 
                         <figure>
 
-                            <div class="post-date">
 
-                                <span>24</span> July 2016
-
-                            </div>
-
-                            <img src="images/blog-images/blog-5.jpg" alt="" class="img-responsive"/>
-
-                        </figure>
-
-                        </a>
-
-                        <article>
-
-                            This is a sample news post title content or sample post heading.
-
-                        </article>
-
-                    </section>
-
-                </li>
-
-                 <li>
-
-                    <section class="blog-content">
-
-                        <a href="blog-details.html">
-
-                        <figure>
-
-                            <div class="post-date">
-
-                                <span>24</span> July 2016
-
-                            </div>
-
-                            <img src="images/blog-images/blog-1.jpg" alt="" class="img-responsive"/>
+                            <img src="images/book-images/painless_grammar.gif" alt="" class="img-responsive"/>
 
                         </figure>
 
@@ -313,13 +195,8 @@
 
                         <figure>
 
-                            <div class="post-date">
 
-                                <span>24</span> July 2016
-
-                            </div>
-
-                            <img src="images/blog-images/blog-3.jpg" alt="" class="img-responsive"/>
+                            <img src="images/book-images/toefl_cliff.gif" alt="" class="img-responsive"/>
 
                         </figure>
 
@@ -335,35 +212,7 @@
 
                 </li>
 
-                <li>
-
-                    <section class="blog-content">
-
-                        <a href="blog-details.html">
-
-                        <figure>
-
-                            <div class="post-date">
-
-                                <span>24</span> July 2016
-
-                            </div>
-
-                            <img src="images/blog-images/blog-5.jpg" alt="" class="img-responsive"/>
-
-                        </figure>
-
-                        </a>
-
-                        <article>
-
-                            This is a sample news post title content or sample post heading.
-
-                        </article>
-
-                    </section>
-
-                </li>
+                 
 
             </ul>
 
